@@ -1,0 +1,8 @@
+/* Estilos para el contenedor principal */
+#root {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
+    padding: 16px;
+}
+
